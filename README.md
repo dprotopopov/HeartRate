@@ -104,7 +104,7 @@
 
 то 
 
--(F,F)(t) = BFF ( V\*CONJUGATE(V) ) = BFT ( M2 )
+- (F,F)(t) = BFF ( V\*CONJUGATE(V) ) = BFT ( M2 )
 
 ## Пример реализации
 
